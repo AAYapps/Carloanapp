@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AAY car loan app</string>
+    <string name="carCost">Cost of the car: </string>
+    <string name="downPay">Down Payment: </string>
+    <string name="APR">APR: </string>
+    <string name="loanLength">Length of loan (months): </string>
+    <string name="loan">Loan</string>
+    <string name="lease">Lease</string>
+    <string name="Mpayment">Monthly Payment</string>
+</resources>
