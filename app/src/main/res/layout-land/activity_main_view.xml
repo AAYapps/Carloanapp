@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="e.thejo.aaycarloanapp.mainView">
+    tools:context="e.thejo.aaycarloanapp.mainView"
+    android:background="@color/appbackground">
 
     <LinearLayout
         android:id="@+id/carCostLayout"
